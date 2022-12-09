@@ -1,0 +1,12 @@
+Package: myaddPkg
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.4.0
+Author: zhoumengru
+Maintainer: zhouzhou0921 <1017502250@qq.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
